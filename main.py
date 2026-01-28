@@ -19,9 +19,7 @@ IMPORTANT =  "IF YOU WANT TO USE THIS PROGRAMM DONT FORGET ITS POWERFULL AND WIL
 print (Fore.RED + IMPORTANT)
 
 channels = [
-    "u got hacked lol", "hahahahahahaha", "u trash as fuck hahahaha", "shit owner", "EZ", "POMOCI HAHAHAH", "SHIT SERVER","FUCK ALL OF YOU",
-    "retard-mods", "imagine-being-nuked","leave this server lol!!!!!!!!!!!", "got niggered", "monkey", "BIG BLACK MONKE BOY NUKE", "GET RACT BY DART GOBLINS", "DEEZ NUTS IN YOUR MOUTH",
-    "WENDYS DICK Fit IN UR MOUTH", "OLEG MIR DIE EIER", "MAGOMONOGÄEM","ZIAGLA HAS NO PANTS","CARL DER KOMPLIZE"
+    "deleted"
 ]
 token_input = input(  "Please enter your Bot token:  ")
 TOKEN = token_input
@@ -116,4 +114,5 @@ async def start(ctx):
 
 
 pomoci.run(TOKEN)
+
 
